@@ -119,7 +119,7 @@ npm start
 
 ## 👤 Author
 
-**Kalpesh Gunjal**
+**Tisha Jain**
 
 ---
 
